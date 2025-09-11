@@ -217,7 +217,7 @@ Container(
                   ),
                   SpeakerCard(
                     name: 'Sorin Bolos',
-                    title: 'Transilvania Qunatum',
+                    title: 'Transilvania Quantum',
                     //rbio: 'Builds tools for quantum simulation.',
                     photoAsset: 'assets/SorinBolos.jpeg',
                   ),
